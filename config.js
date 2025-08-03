@@ -86,7 +86,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/5gVBLSPQ/2.jpg',
+            image: 'https://i.ibb.co/C5YMwcsP/2.png',
             description: '',
             location: {
               center: [28.97131817837604,41.018050376587205],
@@ -146,7 +146,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/x8RqxCsy/4.png',
+            image: 'https://i.ibb.co/Zzp23MK6/4.png',
             description: '',
             location: {
                  center: [28.97131817837604,41.018050376587205],
@@ -170,7 +170,7 @@ var config = {
         },
         {
             id: '5',
-            alignment: 'right',
+            alignment: 'full',
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/bRGhGf9V/5.png',
