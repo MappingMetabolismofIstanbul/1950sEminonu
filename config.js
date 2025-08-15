@@ -146,7 +146,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/Zzp23MK6/4.png',
+            image: 'https://i.ibb.co/NRKP8Y8/4.png',
             description: '',
             location: {
                  center: [28.97131817837604,41.018050376587205],
